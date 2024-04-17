@@ -1,14 +1,12 @@
+
+
+![](https://github-readme-stats.vercel.app/api?username=JoseCarlosVSJ&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<a/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoseCarlosVSJ&theme=tokyonight&hide_border=true)<a/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosVSJ&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 ## Sobre Mim 🌟<br><br>Olá, meu nome é José Carlos 👋.<br><br>📊 **Data Science:** Sou apaixonado por descobrir insights através dos dados. Atualmente, dedico-me a projetos que desafiam minhas habilidades analíticas e me permitem explorar novas técnicas e ferramentas.<br><br>💻 **Desenvolvimento:** Além de Data Science, estou envolvido em desenvolvimento de software, onde aplico minha paixão por criar soluções tecnológicas eficazes. A inovação e a aplicação prática de conhecimentos estão sempre no centro do meu trabalho.<br><br>🔍 **Objetivo Profissional:** Meu objetivo é combinar análise crítica e inovação tecnológica para resolver problemas complexos e gerar valor através de dados e software.<br><br>🌱 **Crescimento Contínuo:** Estou comprometido com meu desenvolvimento pessoal e profissional, sempre em busca de novas tecnologias e metodologias para melhorar meu desempenho e resultados.<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-carlos-vieira-dos-santos-junior-7684402a5) 
 
-# 💻 Tech Stack:
+# 💻 Tecnologias:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JoseCarlosVSJ&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JoseCarlosVSJ&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlosVSJ&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
