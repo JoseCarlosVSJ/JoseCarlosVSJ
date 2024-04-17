@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseCarlosVSJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoseCarlosVSJ&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=20" height="200" alt="streak graph"  />
+</div>
+
+###
+
 <p align="left">📊 Data Science: Sou apaixonado por descobrir insights através dos dados. Atualmente, dedico-me a projetos que desafiam minhas habilidades analíticas e me permitem explorar novas técnicas e ferramentas.<br><br>💻 Desenvolvimento: Além de Data Science, estou envolvido em desenvolvimento de software, onde aplico minha paixão por criar soluções tecnológicas eficazes. A inovação e a aplicação prática de conhecimentos estão sempre no centro do meu trabalho.<br><br>🔍 Objetivo Profissional: Meu objetivo é combinar análise crítica e inovação tecnológica para resolver problemas complexos e gerar valor através de dados e software.<br><br>🌱 Crescimento Contínuo: Estou comprometido com meu desenvolvimento pessoal e profissional, sempre em busca de novas tecnologias e metodologias para melhorar meu desempenho e resultados.</p>
 
 ###
@@ -35,5 +42,11 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JoseCarlosVSJ/JoseCarlosVSJ/output/snake.svg" alt="Snake animation" />
 
 ###
